@@ -1,0 +1,58 @@
+{
+    "editor.suggestSelection": "first",
+    "editor.fontFamily": "Operator Mono Lig",
+    "editor.fontWeight": "300",
+    "editor.formatOnPaste": true,
+    "editor.fontSize": 16,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.CustomBrowser": "chrome",
+    "workbench.startupEditor": "none",
+    "workbench.editor.enablePreview": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnType": true,
+    "git.enableSmartCommit": true,
+    "diffEditor.codeLens": true,
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+    },
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 40,
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": false
+    },
+    "blade.format.enable": true,
+    "editor.codeActionsOnSave": null,
+    "settingsSync.ignoredExtensions": [
+    
+    ],
+    "terminal.integrated.fontFamily": "Operator Mono Lig",
+    "breadcrumbs.enabled": true,
+    "editor.renderWhitespace": "none",
+    "terminal.integrated.fontSize": 16,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "terminal.integrated.fontWeightBold": "300",
+    "editor.fontLigatures": true,
+   
+    "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "editor.codeLensFontFamily": "'Operator Mono Lig', Menlo, Monaco, 'Courier New', monospace",
+    "editor.codeLensFontSize": 16,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Material Theme Darker", 
+}
